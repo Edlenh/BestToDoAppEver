@@ -7,7 +7,7 @@ const ListHeader =({ listName, getData }) => {
   const [showModal, setShowModal] = useState(false)
 
   const signOut = ()=>{
-    console.log('signout')
+    // console.log('signout')
     removeCookie('Email')
     removeCookie('AuthToken')
     window.location.reload()
