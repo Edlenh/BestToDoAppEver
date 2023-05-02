@@ -203,14 +203,14 @@ body{
 .ending{
     font-size: 16px;
     margin-top: 10px;
-    color: #fff;
+    color: black;
 }
 
 .user-email{
     float:right;
     font-size: 16px;
     margin-top: 10px;
-    color: #fff;
+    color: black
 }
 
 .outer-bar{
